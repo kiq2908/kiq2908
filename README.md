@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kiq2908/kiq2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Here is my [Linkedin](linkedin.com/in/quoc-huynh-uc "Quoc Huynh's LinkedIn) and my [Email address](mailto:huynhqk@mail.uc.edu)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
